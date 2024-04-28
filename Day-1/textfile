@@ -1,0 +1,23 @@
+install terraform
+
+go to google chrome and type terraform install we can get hashcorp terraform site download windows amdb and install terraform.exe file
+
+and set the environment variables for terraform
+
+terraform --version
+
+Terraform v1.8.2 on windows_amd64
+
+install aws cli
+
+download the msi version of windows in google
+
+create one iam user in aws
+
+iam-->users-->create user-->next-->attach permissions-->admin access-->next-->create user
+
+once user is created go to security creds and create access keys
+
+open cmd and do the below to configure aws
+
+aws configure
